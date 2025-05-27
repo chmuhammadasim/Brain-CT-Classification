@@ -1,0 +1,4 @@
+Test Loss: 0.0020
+Test Accuracy: 1.0000
+Test Precision: 1.0000
+Test Recall: 1.0000
